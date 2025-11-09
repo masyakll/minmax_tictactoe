@@ -1,1 +1,0 @@
-# minmax_tictactoe
